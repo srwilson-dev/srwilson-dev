@@ -23,12 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Wilson Marte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srwilson-dev&show_icons=true&theme=tokyonight)  
-
-## 🔥 GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srwilson-dev&theme=highcontrast)  
-
 ## 🚀 Tech Skills  
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
